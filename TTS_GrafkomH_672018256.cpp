@@ -498,7 +498,7 @@ int main(int argc, char** argv) {
 	glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGB);
 	glutInitWindowSize(300, 300);
 	glutInitWindowPosition(0, 0);
-	glutCreateWindow("Tugas animasi");
+	glutCreateWindow("Batik bali");
 	glutDisplayFunc(display);
 
 	myinit();
